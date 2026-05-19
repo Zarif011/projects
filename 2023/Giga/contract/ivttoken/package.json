@@ -12,9 +12,9 @@
     "ethers-eip712": "^0.2.0",
     "hardhat": "^2.13.0",
     "hardhat-abi-exporter": "^2.10.1",
-    "hardhat-deploy": "^0.11.25",
+    "hardhat-deploy": "^2.0.8",
     "solidity-docgen": "^0.6.0-beta.35",
-    "web3": "^1.9.0"
+    "web3": "^4.16.0"
   },
   "devDependencies": {
     "@ethersproject/providers": "^5.7.2",
